@@ -11,4 +11,8 @@ Proper nouns, names of people, cities etc.
 ## Importance
 An important part of creating effective web parts in SharePoint is using simple, understandable and concise UI text in them. Keeping your message clear and easy to read will ensure your customers move through your experiences quickly and get to the content they are looking for without difficulty. Dive into the sections below to get specific guidance on writing text for key areas within SharePoint Web parts.
 
-![Seattle Skyline](http://www.localtrips.com/images/seattle-trips.jpg)
+
+
+![Seattle Skyline](http://www.romania-insider.com/wp-content/uploads/2012/07/subsonic-ploiesti.jpg)
+
+
